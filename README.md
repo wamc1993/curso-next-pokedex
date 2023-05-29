@@ -22,8 +22,8 @@ The `pages/api` directory is mapped to `/api/*`. Files in this directory are tre
 
 To learn more about Next.js, take a look at the following resources:
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+-   [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
+-   [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
 You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
 
@@ -32,3 +32,13 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
+-   Configurar acceso a imágenes especificando el dominio en las configuraciones
+-   implementar el \_document.tsx
+-   diferencia entre página estática y página creada con SSG (static site generation)
+-   getStaticPaths
+-   hacer npm ru build antes del npm run start
+-   Instrucciones que pueden correr en el backend y en el frontend
+-   Hacer nuestro código de tal forma que al inicializarse en frontend y backend, tengan el mismo comportamiento
+-   consejos de SEO (usar metatags en el head, crear url seo-friendly)
+-   Metatags de Open graph https://ahrefs.com/blog/open-graph-meta-tags/
